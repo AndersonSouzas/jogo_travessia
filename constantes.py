@@ -1,0 +1,4 @@
+
+class CONSTANTES:
+    MAX_ENERGIA = 100
+    MAX_SEDE = 50
